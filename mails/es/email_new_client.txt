@@ -1,0 +1,10 @@
+Prestashop Nativo - Solicitud Alta Cliente
+
+Empresa: {client_company}
+Persona de contacto: {client_contact_person}
+Provincia: {client_state}
+Teléfono de contacto: {client_phone}
+E-Mail: {client_email}
+Comentario: {client_comments}
+Cliente registrado: {client_registered}
+Versión de Prestashop: {version_prestashop}

@@ -1,0 +1,9 @@
+.tipsa_version {
+    font-size: 10px;
+    color: #000000;
+    float: right;
+    padding-right: 10px;
+}
+.icon-AdminTipsacarrierManagement:before {
+    content: "" !important;
+}
